@@ -1,3 +1,5 @@
+// program to reverse the location of array elements
+
 #include<stdio.h>
 
 int main()
