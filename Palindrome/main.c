@@ -1,3 +1,5 @@
+// program to check if a word is plaindrome or not
+
 #include <stdio.h>
 #include <ctype.h>  
 #include <string.h>
