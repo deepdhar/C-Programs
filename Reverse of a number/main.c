@@ -1,3 +1,6 @@
+// program to print reverse of a number
+// for e.g., reverse of 165 is 561
+
 #include <stdio.h>
 #include <math.h>
 int reverse(int);
