@@ -1,4 +1,7 @@
+// program to find factorial of any entered number
+
 #include <stdio.h>
+
 long int factorial(int n)
 {
     if (n==0)
